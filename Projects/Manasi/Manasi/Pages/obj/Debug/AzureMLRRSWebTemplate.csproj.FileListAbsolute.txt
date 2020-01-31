@@ -1,0 +1,11 @@
+D:\AzureMLRRSWebTemplate\AzureMLRRSWebTemplate\bin\CSS\master.css
+D:\AzureMLRRSWebTemplate\AzureMLRRSWebTemplate\bin\AzureMLRRSWebTemplate.dll.config
+D:\AzureMLRRSWebTemplate\AzureMLRRSWebTemplate\bin\AzureMLRRSWebTemplate.dll
+D:\AzureMLRRSWebTemplate\AzureMLRRSWebTemplate\bin\AzureMLRRSWebTemplate.pdb
+D:\AzureMLRRSWebTemplate\AzureMLRRSWebTemplate\bin\Newtonsoft.Json.dll
+D:\AzureMLRRSWebTemplate\AzureMLRRSWebTemplate\bin\ParameterIO.dll
+D:\AzureMLRRSWebTemplate\AzureMLRRSWebTemplate\bin\System.Net.Http.dll
+D:\AzureMLRRSWebTemplate\AzureMLRRSWebTemplate\bin\System.Net.Http.Formatting.dll
+D:\AzureMLRRSWebTemplate\AzureMLRRSWebTemplate\obj\Debug\AzureMLRRSWebTemplate.csprojResolveAssemblyReference.cache
+D:\AzureMLRRSWebTemplate\AzureMLRRSWebTemplate\obj\Debug\AzureMLRRSWebTemplate.dll
+D:\AzureMLRRSWebTemplate\AzureMLRRSWebTemplate\obj\Debug\AzureMLRRSWebTemplate.pdb
